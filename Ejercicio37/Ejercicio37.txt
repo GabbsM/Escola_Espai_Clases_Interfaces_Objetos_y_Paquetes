@@ -1,0 +1,13 @@
+PREGUNTA:
+
+Problema 37
+Explica para qué sirve una interfaz como la del ejemplo anterior. ¿Qué utilidad tiene hacer que
+distintas clases implementen la misma interfaz? Pista: La herencia en Java solo permite 1 padre.
+
+
+RESPUESTA:
+
+En Java a diferencia de otros lenguajes no tenemos la herencia multiple, por lo que usar las Interfaces
+es una buena forma de conseguir algo similar. Usar Interface nos da la posibilidad de realizar una herencia
+de cualquiera de las clases que tengamos.
+
