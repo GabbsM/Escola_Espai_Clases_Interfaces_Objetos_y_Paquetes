@@ -1,0 +1,9 @@
+
+Problema 42
+¿Qué ventajas tiene el tipo Vector sobre un array? Y qué desventajas?
+
+RESPUESTA:
+
+La ventaja es que con un Vector puedes ir agregando elementos as la lista sin tener en cuenta su tamanio
+de memoria al declarar la lista. La desventaja es que al hacer esto , se tiene menos control del uso
+de la memoria.

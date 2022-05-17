@@ -1,0 +1,8 @@
+Problema 44
+¿Es posible que un objeto herede de varias clases? ¿Y que implemente varias interfaces?
+
+RESPUESTA:
+
+No, en Java un objeto únicamente se puede heredar de una clase. Con las interfaces es diferente, porque
+en este caso si que podemos implementar tantas como necesitemos.
+
